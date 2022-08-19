@@ -1,0 +1,32 @@
+ <ul class="navbar-nav navbar-dark ms-auto mb-2 mb-lg-0 gap-1">
+            <li class="nav-item dropdown mt-2 mt-md-0 ">
+              <a style="color: #ffffff;"  class="nav-link dropdown-toggle " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Language
+              </a>
+              <ul class="dropdown-menu dropdown-menu-light">
+                <li><a class="dropdown-item" href="#">Indonesia</a></li>
+                <li><a class="dropdown-item" href="#">Inggris</a></li>
+              </ul>
+            </li>
+            <!-- akhir -->
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="reseller.html">Reseller</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link btn btn-xs btn-light" style="color:#4f80ff ;" href="#">Login</a>
+            </li>
+            
+          </ul>
+          
+          
+          <div class="col-md-6 mb-2">
+                <a class="btn btn-lg" style="background-color: #001d6e; color: white; border-radius: 20px; width: 100%;" href="#">Register</a>
+              </div>
+              <div class="col-md-6">
+                <a class="btn btn-lg btn-outline-light" style=" color: white; border-radius: 20px; width: 100%;" href="#">Demo</a>
+              </div>
+              
+              
